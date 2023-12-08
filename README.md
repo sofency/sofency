@@ -27,7 +27,7 @@ Vue      60 mins         ████████▓░░░░░░░░░�
 -------
 📖 **Frequently Used Programming Languages**
 <!--START_SECTION:waka-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofencyXiao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofency&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:waka-->
 
 ------- 
@@ -35,7 +35,7 @@ Vue      60 mins         ████████▓░░░░░░░░░�
 📕  **Some Project I Recommend**
 <!--START_SECTION:waka-->
   <p align="left">
-    <a href="https://github.com/sofencyXiao/Community"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sofencyXiao&repo=Community&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Community"></a>
+    <a href="https://github.com/sofencyXiao/Community"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sofency&repo=Community&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Community"></a>
    </p>
 <!--END_SECTION:waka-->
 
