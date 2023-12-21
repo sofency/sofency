@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm sofencyXiao.</h2>
+<h2 align="center">👋 Hello! I'm sofency.</h2>
 <p align="center">
   <a href="https://blog.csdn.net/qq_43079376">Blog</a> •
   <a href="https://twitter.com/athulcajay">Twitter</a>
