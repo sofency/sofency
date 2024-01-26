@@ -13,9 +13,6 @@
 -------
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
-📊 **Top development languages**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofency&langs_count=8)
-
 -------
 📖 **Frequently Used Programming Languages**
 <!--START_SECTION:waka-->
