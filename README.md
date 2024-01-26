@@ -29,7 +29,6 @@
 </td></tr>
 
 <tr><td>
-
 -------
 📖 **Frequently Used Programming Languages**
 <!--START_SECTION:waka-->
