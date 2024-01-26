@@ -11,25 +11,6 @@
 - ⚡ Fun fact: Big Fan of the :zap: emoji
 
 -------
-### 📊 WakaTime
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sofency&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sofency&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sofency&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-
-</td></tr>
-
-<tr><td>
--------
 📖 **Frequently Used Programming Languages**
 <!--START_SECTION:waka-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofency&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
