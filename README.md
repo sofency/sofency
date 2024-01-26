@@ -13,16 +13,8 @@
 -------
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-
-```txt
-JAVA     120 mins        ████████████████░░░░░░░░░   50.00 %
-C++      60 mins         ████████▓░░░░░░░░░░░░░░░░   25.00 %
-Vue      60 mins         ████████▓░░░░░░░░░░░░░░░░   25.00 %
-```
-
-<!--END_SECTION:waka-->
+📊 **Top development languages**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofency&langs_count=8)
 
 -------
 📖 **Frequently Used Programming Languages**
