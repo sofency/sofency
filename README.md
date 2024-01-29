@@ -14,10 +14,11 @@
 <div style="display:flex">
   <div class="left" style="width:45%">
     📖 **Frequently Used Programming Languages**
-<!--START_SECTION:waka-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofency&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--END_SECTION:waka-->
+    <!--START_SECTION:waka-->
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofency&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    <!--END_SECTION:waka-->
   </div>
+  
   <div class="right">
     📕  **Some Project I Recommend**
 <!--START_SECTION:waka-->
@@ -27,10 +28,3 @@
 <!--END_SECTION:waka-->
   </div>
 </div>
-
-
-------- 
-
-
-
-------- 
