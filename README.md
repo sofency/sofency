@@ -13,7 +13,7 @@
 -------
 📖 **Frequently Used Programming Languages**
 <!--START_SECTION:waka-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofency&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofency&layout=right)](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:waka-->
   <div class="right" style="width:45%; float:right">
     📕  **Some Project I Recommend**
