@@ -11,16 +11,7 @@
 - ⚡ Fun fact: Big Fan of the :zap: emoji
 
 -------
-📖 **Frequently Used Programming Languages**
-<!--START_SECTION:waka-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofency&layout=right)](https://github.com/anuraghazra/github-readme-stats)
-<!--END_SECTION:waka-->
-  <div class="right" style="width:45%; float:right">
-    📕  **Some Project I Recommend**
-<!--START_SECTION:waka-->
-   <p align="left" >
-    <a href="https://github.com/sofencyXiao/Community"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sofency&repo=Community&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Community"></a>
-   </p>
-<!--END_SECTION:waka-->
-  </div>
-</div>
+<!-- GitHub 数据统计 -->
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sofency&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sofency&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
+
