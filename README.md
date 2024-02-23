@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying in ZhengZhou University majoring in AI
 - 🌱 I’m currently learning more on C++、JAVA and Deep Learning
-- 💬 Ask me about **JAVA, Git and Vue**
+- 💬 Ask me about **JAVA, C++, Python, Git and Vue**
 - ⚡ Fun fact: Big Fan of the :zap: emoji
 
 -------
