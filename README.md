@@ -20,8 +20,8 @@
 
 -------
 <h4>&nbsp;&nbsp;&nbsp;&nbsp;The time I spent on coding</h4>
-<div class='machine-learning-study' style="display:flex; padding-left:10px">
-  <div style="height:40px;width:100px; vertical-align:center">machine-learning-study</div>
-  <img style="height:28px;" src="https://wakatime.com/badge/user/018d4508-b7ec-4694-9e53-803118ee4560/project/018d5de3-8d5c-4e2b-8199-d0d180c05874.svg"/>
+<div class='machine-learning-study' style="display:flex; padding-left:20px">
+  <div style="height:40px;width:200px; vertical-align:center">machine-learning-study</div>
+  <img style="height:20px;" src="https://wakatime.com/badge/user/018d4508-b7ec-4694-9e53-803118ee4560/project/018d5de3-8d5c-4e2b-8199-d0d180c05874.svg"/>
 </div>
 
