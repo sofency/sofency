@@ -24,7 +24,7 @@
 <table>
 	<tr>
 		<td>machine-learning-study</td>
-		<td><a href="https://wakatime.com/badge/user/018d4508-b7ec-4694-9e53-803118ee4560/project/018d5de3-8d5c-4e2b-8199-d0d180c05874"><img src="https://wakatime.com/badge/user/018d4508-b7ec-4694-9e53-803118ee4560/project/018d5de3-8d5c-4e2b-8199-d0d180c05874.svg" alt="wakatime"></a></td>
+		<td><a href="https://wakatime.com/badge/user/018d4508-b7ec-4694-9e53-803118ee4560/project/018d5de3-8d5c-4e2b-8199-d0d180c05874"><img style="margin-bottom: -4px;" src="https://wakatime.com/badge/user/018d4508-b7ec-4694-9e53-803118ee4560/project/018d5de3-8d5c-4e2b-8199-d0d180c05874.svg" alt="wakatime"></a></td>
 	</tr>
 </table>  
 </div>
