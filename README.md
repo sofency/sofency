@@ -21,7 +21,7 @@
 -------
 <h4>&nbsp;&nbsp;&nbsp;&nbsp;The time I spent on coding</h4>
 <div class='machine-learning-study' style="display:flex">
-  <div style="width:100px">machine-learning-study</div>
+  <span>machine-learning-study</span>
   <img src="https://wakatime.com/badge/user/018d4508-b7ec-4694-9e53-803118ee4560/project/018d5de3-8d5c-4e2b-8199-d0d180c05874.svg"/>
 </div>
 
