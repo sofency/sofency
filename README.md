@@ -28,6 +28,10 @@
 		<td>cpp_study</td>
 		<td><a href="https://wakatime.com/badge/user/018d4508-b7ec-4694-9e53-803118ee4560/project/018d96cc-32d9-4b4c-bb96-06397036f7fd"><img style="margin-bottom: -4px;" src="https://wakatime.com/badge/user/018d4508-b7ec-4694-9e53-803118ee4560/project/018d96cc-32d9-4b4c-bb96-06397036f7fd.svg" alt="wakatime"></a></td>
 	</tr>
+	<tr>
+		<td>compute-vision-study</td>
+		<td><a href="https://wakatime.com/badge/user/018d4508-b7ec-4694-9e53-803118ee4560/project/018e20db-3b2e-44e2-9f8a-c3e5f2477f08"><img src="https://wakatime.com/badge/user/018d4508-b7ec-4694-9e53-803118ee4560/project/018e20db-3b2e-44e2-9f8a-c3e5f2477f08.svg" alt="wakatime"></a></td>
+	</tr>
 </table>  
 </div>
 
