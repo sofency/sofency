@@ -34,4 +34,12 @@
 	</tr>
 </table>  
 </div>
+------
+<h4>&nbsp;&nbsp;&nbsp;&nbsp;The books I have read and plan to read are as follows </h4>
+
+- 🔭 《CUDA编程 基础与实战》                        finished
+- 📝 《Python机器学习 基于Pytorch和Scikit-learn》   finished
+- 🐦 《Pytorch计算机视觉实战》                      reading
+- 🔉
+- 📡 
 
