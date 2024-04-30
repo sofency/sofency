@@ -40,7 +40,9 @@
 
 - 🔭 《CUDA编程 基础与实战》                        finished
 - 📝 《Python机器学习 基于Pytorch和Scikit-learn》   finished
+- 📡 《OpenMP 并行计算》                           reading
 - 🐦 《Pytorch计算机视觉实战》                      reading
 - 🔉 《Kubernetes in Action 中文版》
 - 📡 《自然语言处理 深度学习进阶》
+
 
